@@ -54,7 +54,3 @@ Projektet anvender Personal eXtreme Programming (PXP):
 - Test First-principper (TDD)  
 - Refactoring og løbende forbedringer  
 - Små releases og synlig fremdrift (Kanban-board)
-
----
-
-## Installation
